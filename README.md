@@ -1,2 +1,3 @@
 # Spatial-Analysis-in-Epidemiology
 Spatial data analysis tools like remote sensing and Geographical Information Systems (GIS) are valuable but underutilized in disease research. As their adoption increases in epidemiological studies, our comprehension of disease mechanisms stands to benefit. 
+Epidemiology is a widely recognised in the field of health-science, which frequently employs spatial data. The purpose of this research is to discuss the impact of spatial data analysis and the techniques which includes GIS which can be used in epidemiology. Future directions for the use spatial analysis could also be proposed.
